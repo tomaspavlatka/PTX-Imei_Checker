@@ -23,3 +23,5 @@ Files
 -----
 readme.txt                 - This file.
 license.txt                - The license for this software (New BSD License).
+imeichecker.class.php      - The core PTX_ImeiChecker class source.
+example.php                - Example.
