@@ -1,0 +1,25 @@
+PTX Imei Checker for PHP (c) Tomas Pavlatka, 2010 (http://pavlatka.cz)
+
+Introduction
+------------
+
+PTX Imei Checker is very small PHP class which checks whether imei number is correct or not.
+
+
+Project at GitHub: https://github.com/tomaspavlatka/Imei-checker
+My website: http://pavlatka.cz
+
+
+Requirements
+------------
+- PHP (version 5 or better)
+
+Usage
+-----
+
+Check examples.
+
+Files
+-----
+readme.txt                 - This file.
+license.txt                - The license for this software (New BSD License).
